@@ -1,3 +1,7 @@
 本地创建版本库
 本地文件夹下执行
 $ git init
+添加文件到本地仓库
+$ git add readme.txt
+提交添加文件到仓库
+$ git commit -m "wrote a readme file"
