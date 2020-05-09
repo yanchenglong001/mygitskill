@@ -1,3 +1,9 @@
 本地创建版本库
 本地文件夹下执行
 $ git init
+
+git status命令可以让我们时刻掌握仓库当前的状态
+$ git status
+
+git diff顾名思义就是查看difference，显示的格式正是Unix通用的diff格式
+$ git diff
