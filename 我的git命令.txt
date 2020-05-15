@@ -7,3 +7,5 @@ $ git status
 
 git diff顾名思义就是查看difference，显示的格式正是Unix通用的diff格式
 $ git diff
+
+我是全量修改分支
